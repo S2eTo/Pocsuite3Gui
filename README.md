@@ -1,5 +1,7 @@
 Flask+Vue Gui for [Pocsuite3](https://github.com/knownsec/pocsuite3)
 
+![img](https://user-images.githubusercontent.com/50647385/207260922-e6f0c040-951d-40ce-a737-921de919d74e.png)
+
 # Install
 
 Add the gui file to the Pocsuite3 project and place it in the same directory as cli.py
@@ -31,6 +33,3 @@ cd gui-vue
 npm run install
 vue-cli-service serve
 ```
-# Screenshots
-
-![img](https://user-images.githubusercontent.com/50647385/207260922-e6f0c040-951d-40ce-a737-921de919d74e.png)
